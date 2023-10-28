@@ -1,0 +1,24 @@
+{
+  "name": "web-terminal",
+  "version": "1.0.0",
+  "description": "web app that could connet to node.js and excute commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaos-19/Node-web-terminal.git"
+  },
+  "author": "Kalkidan (Chaos-19)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chaos-19/Node-web-terminal/issues"
+  },
+  "homepage": "https://github.com/Chaos-19/Node-web-terminal#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
